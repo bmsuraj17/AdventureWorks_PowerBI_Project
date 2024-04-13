@@ -4,7 +4,7 @@ This Power BI project utilizes the Adventure Works dataset to create a comprehen
 
 ## Dashboard Overview
 ### Page 1: Executive Dashboard
-![Exec Dashboard]([path_to_your_image.png](https://github.com/bmsuraj17/AdventureWorks_PowerBI_Project/blob/main/Adventureworks%20Report_1.png))
+![Exec Dashboard](https://github.com/bmsuraj17/AdventureWorks_PowerBI_Project/blob/main/Adventureworks%20Report_1.png)
 Total Profit
 Orders Return Rate
 Monthly Revenue
