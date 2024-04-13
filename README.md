@@ -24,15 +24,15 @@ Visualization using a decomposition tree to analyze data
 Identification of key influencers impacting the business metrics
 
 ## Visualizations Used
-Line chart
-Bar chart
-Matrix
-KPIs
-Cards
-Bookmarks
-Drillthroughs
-Maps
-Report tooltip page
+Line chart,
+Bar chart,
+Matrix,
+KPIs,
+Cards,
+Bookmarks,
+Drillthroughs,
+Maps,
+Report tooltip page,
 Field Paramaters
 
 ## Key Features
