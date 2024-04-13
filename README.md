@@ -3,6 +3,8 @@
 This Power BI project utilizes the Adventure Works dataset to create a comprehensive report with various visualizations and analyses. The report includes an executive dashboard, map distribution, product level Detail, customer level Detail, decomposition tree, and key influencers.
 
 ## Dashboard Overview
+### Model View
+![Model View](Adventureworks%20Report_ModelView.png)
 ### Page 1: Executive Dashboard
 ![Exec Dashboard](https://github.com/bmsuraj17/AdventureWorks_PowerBI_Project/blob/main/Adventureworks%20Report_1.png)
 Total Profit
