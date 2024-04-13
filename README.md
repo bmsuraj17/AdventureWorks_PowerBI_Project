@@ -5,6 +5,8 @@ This Power BI project utilizes the Adventure Works dataset to create a comprehen
 ## Dashboard Overview
 ### Model View
 ![Model View](Adventureworks%20Report_ModelView.png)
+### Data Pane
+![Data Pane](Adventureworks Report_DataPane.png)
 ### Page 1: Executive Dashboard
 ![Exec Dashboard](https://github.com/bmsuraj17/AdventureWorks_PowerBI_Project/blob/main/Adventureworks%20Report_1.png)
 Total Profit
